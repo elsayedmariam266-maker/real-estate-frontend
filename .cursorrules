@@ -1,0 +1,7 @@
+Design Language: Premium, clean, minimal SaaS-style UI (inspired by Linear, Notion, and Stripe).
+
+Visuals: Use modern Glassmorphism extensively. Cards, modals, sidebars, and navbars MUST have subtle blurred backgrounds (backdrop-blur), semi-transparent surfaces, and delicate 1px borders.
+
+Colors: Use a sleek, modern palette. Avoid cluttered layouts and cheap, overly bright colors.
+
+Code Structure: Use functional components, React hooks, and maintain a clean folder structure (e.g., /src/components, /src/pages, /src/services).

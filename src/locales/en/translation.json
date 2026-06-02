@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "title": "Estate — Luxury Real Estate",
+    "description": "A premium, modern experience to explore exceptional homes."
+  },
+  "nav": {
+    "home": "Home",
+    "properties": "Properties"
+  },
+  "common": {
+    "exploreProperties": "Explore Properties",
+    "contactUs": "Contact Us",
+    "viewAllProperties": "View all properties",
+    "browseCatalogue": "Browse catalogue",
+    "backToProperties": "Back to properties",
+    "loading": "Loading…",
+    "close": "Close"
+  },
+  "home": {
+    "hero": {
+      "badge": "A premium gateway to extraordinary homes",
+      "headline": "Find Your Perfect Place To Call Home",
+      "subtitle": "Bright. Modern. Luxurious. A calm, glass-first experience inspired by Apple-level polish—built to make exploration feel effortless.",
+      "feature1Label": "Warm, modern design",
+      "feature1Value": "Beige · Gold · Glass",
+      "feature2Label": "Verified quality",
+      "feature2Value": "Trusted partners",
+      "feature3Label": "Premium support",
+      "feature3Value": "Professional guidance",
+      "feature4Label": "Secure process",
+      "feature4Value": "Clear and protected"
+    },
+    "why": {
+      "kicker": "Why choose us",
+      "title": "Luxury service, without the noise",
+      "subtitle": "A brand experience designed to feel warm, modern, and exceptionally refined.",
+      "trustTitle": "Trust",
+      "trustDesc": "We curate with discretion—an experience designed to feel calm, confident, and premium.",
+      "verifiedTitle": "Verified Listings",
+      "verifiedDesc": "Quality-first validation, so every listing meets a standard worthy of your time.",
+      "supportTitle": "Professional Support",
+      "supportDesc": "Guidance across viewings, negotiation, and next steps—with clarity at every stage.",
+      "secureTitle": "Secure Transactions",
+      "secureDesc": "A transparent process with secure handling and careful attention to the details."
+    },
+    "stats": {
+      "kicker": "Company statistics",
+      "title": "Measured in trust",
+      "subtitle": "Numbers that reflect long-term relationships, not short-term clicks.",
+      "propertiesSold": "Properties Sold",
+      "happyClients": "Happy Clients",
+      "citiesCovered": "Cities Covered",
+      "yearsExperience": "Years of Experience"
+    },
+    "process": {
+      "kicker": "Our process",
+      "title": "A refined path to your next home",
+      "subtitle": "Four steps—simple, professional, and designed for momentum.",
+      "step": "Step",
+      "discoverTitle": "Discover",
+      "discoverDesc": "Explore our catalog with clarity and calm confidence.",
+      "visitTitle": "Visit",
+      "visitDesc": "Schedule viewings that respect your time.",
+      "decideTitle": "Decide",
+      "decideDesc": "Compare details, support, and next steps.",
+      "moveInTitle": "Move In",
+      "moveInDesc": "Close smoothly and begin your next chapter."
+    },
+    "testimonials": {
+      "kicker": "Testimonials",
+      "title": "Loved by clients who value design",
+      "subtitle": "A quiet confidence—built for people making meaningful decisions.",
+      "items": [
+        {
+          "quote": "Every detail felt intentional. The experience was calm, premium, and incredibly easy to trust.",
+          "name": "Leila A.",
+          "role": "Buyer"
+        },
+        {
+          "quote": "The guidance was professional and discreet. We found the right place faster than expected.",
+          "name": "Omar S.",
+          "role": "Investor"
+        },
+        {
+          "quote": "Modern, elegant, and reassuring—exactly how luxury should feel online.",
+          "name": "Mariam K.",
+          "role": "Renter"
+        }
+      ]
+    },
+    "cta": {
+      "kicker": "Ready when you are",
+      "title": "Ready to Find Your Dream Property?",
+      "subtitle": "Start with our catalog—or reach out for a private, guided experience."
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "tagline": "Premium real estate, built for clarity."
+  },
+  "properties": {
+    "title": "Properties",
+    "subtitle": "Browse available listings from our platform.",
+    "unableToLoad": "Unable to load properties",
+    "noFound": "No properties found.",
+    "photosMore": "+{{count}} photos"
+  },
+  "propertyDetails": {
+    "title": "Properties",
+    "notFound": "Property not found.",
+    "unableToLoad": "Unable to load property",
+    "listing": "Listing",
+    "price": "Price",
+    "bedrooms": "Bedrooms",
+    "totalArea": "Total area",
+    "description": "Description",
+    "features": "Features",
+    "videoTour": "Video tour",
+    "videoTourSubtitle": "Walk through the property in a short video.",
+    "contactAgent": "Contact agent",
+    "enquiry": {
+      "title": "Contact agent",
+      "subtitle": "Enquire about {{title}}",
+      "sentTitle": "Message sent",
+      "sentBody": "Thank you. An agent will get back to you shortly about {{title}}.",
+      "send": "Send enquiry",
+      "sending": "Sending…",
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Message"
+    }
+  },
+  "language": {
+    "ar": "🇪🇬 العربية",
+    "en": "🇺🇸 English",
+    "divider": "|"
+  },
+  "listing": {
+    "sale": "For Sale",
+    "rent": "For Rent",
+    "other": "For {{type}}"
+  },
+  "units": {
+    "areaSqFt": "{{value}} sq ft"
+  },
+  "gallery": {
+    "noImages": "No images available",
+    "previousImage": "Previous image",
+    "nextImage": "Next image",
+    "goToImage": "Go to image {{number}}",
+    "viewImage": "View image {{number}}"
+  },
+  "property": {
+    "bedroom_one": "bedroom",
+    "bedroom_other": "bedrooms"
+  }
+}
+
